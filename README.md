@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+Here you can find some of my projects, ideas and libs on quantum computing (optimization algorithms), quantum error correction (QEC), python backend development and classical algorithms.
+Future projects:
+* surface-code
+* qLDPC
+* stabilizer lib
+
 <!--
 **Vladlen24/Vladlen24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
